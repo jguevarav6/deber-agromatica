@@ -3,6 +3,8 @@
 Proyecto de Javier Guevara y Justin Minuche para almacenar y analizar datos
 agrícolas y genéticos con PostgreSQL y Python.
 
+Repositorio: https://github.com/jguevarav6/deber-agromatica
+
 ## Requisitos
 
 - Python 3.10 o superior.
