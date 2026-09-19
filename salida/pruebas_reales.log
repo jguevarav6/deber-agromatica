@@ -1,0 +1,10 @@
+EJECUCIÓN REAL DE PYTEST
+Código de salida: 0
+
+PASSED  tests/test_functional.py::test_flujo_genera_los_dos_graficos
+PASSED  tests/test_integration.py::test_consultas_reales_en_postgresql
+PASSED  tests/test_unit.py::test_configuracion_predeterminada
+PASSED  tests/test_unit.py::test_identifica_cultivo_mas_eficiente
+PASSED  tests/test_unit.py::test_rechaza_dataframe_vacio
+
+Resultado: 5 pruebas aprobadas

@@ -1,0 +1,17 @@
+CONEXIÓN EXITOSA A POSTGRESQL
+Cultivos registrados: 5
+Producción total: 16,592,000.00 toneladas
+
+Datos consultados:
+       cultivo  anio  produccion  rendimiento
+         Cacao  2022    412000.0         0.74
+        Banano  2023   7020000.0        41.80
+         Arroz  2024   1570000.0         5.21
+          Maíz  2025   1490000.0         4.63
+Caña de azúcar  2026   6100000.0        78.40
+
+
+Cultivo más eficiente: Caña de azúcar (78.40 t/ha)
+Gráficos generados:
+- C:\Users\santi\OneDrive\Desktop\deberes\deberes_santiago\proyecto_agromatica\salida\rendimiento_por_cultivo.png
+- C:\Users\santi\OneDrive\Desktop\deberes\deberes_santiago\proyecto_agromatica\salida\produccion_por_anio.png

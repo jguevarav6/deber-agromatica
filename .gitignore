@@ -1,0 +1,13 @@
+.venv/
+.deps/
+__pycache__/
+.pytest_cache/
+*.pyc
+local_pgdata/
+postgresql.log
+.chrome-temp/
+assets/
+tools/
+salida/contacto_pdf.png
+salida/pgadmin_*.png
+salida/revision_*.png
